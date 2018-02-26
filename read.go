@@ -1,3 +1,4 @@
+//Here value of n is 3 i.e. 3-gram is calculated from the code
 package main
 
 import (
